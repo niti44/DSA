@@ -3,6 +3,7 @@ public class Stack {
         System.out.println("STACKS");
         System.out.println("QUEUES");
         System.out.println("hello world");
+        int a=2;
 
     }
 }
