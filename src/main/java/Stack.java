@@ -4,6 +4,7 @@ public class Stack {
         System.out.println("QUEUES");
         System.out.println("hello world");
         int a=2;
+        System.out.println(a+2);
 
     }
 }
